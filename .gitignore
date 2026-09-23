@@ -1,3 +1,8 @@
 # Personal txt files
-commands.txt
+aws-commands.txt
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
 
